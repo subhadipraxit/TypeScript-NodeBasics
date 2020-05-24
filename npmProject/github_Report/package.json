@@ -1,0 +1,11 @@
+{
+  "name": "github_report",
+  "version": "1.0.0",
+  "description": "REST API implementation sample project in TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Subhadip",
+  "license": "ISC"
+}
